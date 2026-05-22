@@ -48,7 +48,6 @@
 </div>
 
 <br/>
-<br/>
 
 <div align="center">
   <h2>📍 اطلاعات من</h2>
@@ -58,16 +57,6 @@
   **Id_Splus:** @Zarvan_Brave
   
 </div>
-
-<br/>
-
-<div align="center">
-  <h2>📫 راه ارتباط</h2>
-  
-  **Splus:** @Zarvan_Brave
-  
-</div>
-
 <br/>
 
 <div align="center">
