@@ -9,21 +9,54 @@
   
   <table align="center">
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/><br/>JSON (JS)</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br/>Python</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/><br/>HTML5</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/><br/>CSS</td>
+      <td align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/><br/>
+        <b>JSON (JS)</b>
+      </td>
+      <td align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/><br/>
+        <b>Python</b>
+      </td>
+      <td align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><br/>
+        <b>HTML5</b>
+      </td>
+      <td align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/><br/>
+        <b>CSS</b>
+       </td>
     </tr>
     <tr>
-      <td align="center">🎹<br/><br/>FL Studio</td>
-      <td align="center">🎤<br/><br/>Hip Hop</td>
-      <td align="center">🏔️<br/><br/>Folk Iranian</td>
-      <td align="center">🎬<br/><br/>Cinematic Music</td>
+      <td align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
+        <img src="https://img.icons8.com/color/48/000000/fl-studio--v1.png" width="50" height="50"/><br/>
+        <b>FL Studio</b>
+       </td>
+      <td align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
+        <img src="https://img.icons8.com/color/48/000000/hip-hop.png" width="50" height="50"/><br/>
+        <b>Hip Hop</b>
+       </td>
+      <td align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
+        <img src="https://img.icons8.com/color/48/000000/iran.png" width="50" height="50"/><br/>
+        <b>Folk Iranian</b>
+       </td>
+      <td align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
+        <img src="https://img.icons8.com/color/48/000000/movie.png" width="50" height="50"/><br/>
+        <b>Cinematic Music</b>
+       </td>
     </tr>
     <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pascal/pascal-original.svg" width="50"/><br/>Pascal</td>
-      <td align="center">📝<br/><br/>Word</td>
-      <td colspan="2"></td>
+      <td align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pascal/pascal-original.svg" width="50" height="50"/><br/>
+        <b>Pascal</b>
+       </td>
+      <td align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
+        <img src="https://img.icons8.com/color/48/000000/microsoft-word.png" width="50" height="50"/><br/>
+        <b>Word</b>
+       </td>
+      <td colspan="2" align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
+        🎧<br/>
+        <b>Music Producer</b>
+       </td>
     </tr>
   </table>
 </div>
@@ -49,7 +82,7 @@
 <div align="center">
   <h2>⌛</h2>
   
-  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/main/hourglass.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" height="100"/>
   
   <br/>
   
