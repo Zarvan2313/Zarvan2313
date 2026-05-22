@@ -24,39 +24,39 @@
       <td align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/><br/>
         <b>CSS</b>
-       </td>
+      </td>
     </tr>
     <tr>
       <td align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
-        <img src="https://img.icons8.com/color/48/000000/fl-studio--v1.png" width="50" height="50"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flstudio/flstudio-original.svg" width="50" height="50"/><br/>
         <b>FL Studio</b>
-       </td>
+      </td>
       <td align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
-        <img src="https://img.icons8.com/color/48/000000/hip-hop.png" width="50" height="50"/><br/>
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/hip-hop/hip-hop.png" width="50" height="50"/><br/>
         <b>Hip Hop</b>
-       </td>
+      </td>
       <td align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
-        <img src="https://img.icons8.com/color/48/000000/iran.png" width="50" height="50"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Lion_and_Sun_Emblem_of_Persia.svg/1200px-Lion_and_Sun_Emblem_of_Persia.svg.png" width="50" height="50"/><br/>
         <b>Folk Iranian</b>
-       </td>
+      </td>
       <td align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
-        <img src="https://img.icons8.com/color/48/000000/movie.png" width="50" height="50"/><br/>
+        <img src="https://cdn-icons-png.flaticon.com/512/1046/1046464.png" width="50" height="50"/><br/>
         <b>Cinematic Music</b>
-       </td>
+      </td>
     </tr>
     <tr>
       <td align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pascal/pascal-original.svg" width="50" height="50"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pascal/pascal-plain.svg" width="50" height="50"/><br/>
         <b>Pascal</b>
-       </td>
+      </td>
       <td align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
-        <img src="https://img.icons8.com/color/48/000000/microsoft-word.png" width="50" height="50"/><br/>
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-word-2013.svg" width="50" height="50"/><br/>
         <b>Word</b>
-       </td>
+      </td>
       <td colspan="2" align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px;">
         🎧<br/>
         <b>Music Producer</b>
-       </td>
+      </td>
     </tr>
   </table>
 </div>
@@ -66,7 +66,7 @@
 <div align="center">
   <h2>📍 اطلاعات من</h2>
   <b>Name:</b> Zarvan<br/>
-  <b>Country:</b> Iran 🇮🇷<br/>
+  <b>Country:</b> Iran<br/>
   <b>Id_Splus:</b> @Zarvan_Brave
 </div>
 
@@ -82,7 +82,7 @@
 <div align="center">
   <h2>⌛</h2>
   
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100" height="100"/>
   
   <br/>
   
