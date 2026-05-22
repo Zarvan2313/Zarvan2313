@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <h2>✨ استعدادهای من ✨</h2>
+  <h2>استعداد من</h2>
   <br/>
   
   <!-- JSON (JavaScript) -->
@@ -26,10 +26,10 @@
   <img src="https://img.shields.io/badge/FL%20Studio-9B59B6?style=for-the-badge&logo=flstudio&logoColor=white" />
   
   <!-- Hip Hop -->
-  <img src="https://img.shields.io/badge/Hip%20Hop-E67E22?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hip%20Hop-E67E22?style=for-the-badge&logo=applemusic&logoColor=white" />
   
   <!-- Folk Iranian -->
-  <img src="https://img.shields.io/badge/Folk%20Iranian-27AE60?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Folk%20Iranian-27AE60?style=for-the-badge&logo=iran&logoColor=white" />
   
   <!-- Cinematic Music -->
   <img src="https://img.shields.io/badge/Cinematic%20Music-8E44AD?style=for-the-badge&logo=applemusic&logoColor=white" />
