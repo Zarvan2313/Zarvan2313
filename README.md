@@ -6,38 +6,57 @@
 
 <div align="center">
   <h2>✨ استعدادهای من ✨</h2>
+  <br/>
   
-  <table align="center">
-    <tr>
-      <td align="center" bgcolor="#f7df1e" style="border-radius: 10px; padding: 15px 25px; color: #000; font-weight: bold;">🟨 JSON (JavaScript)</td>
-      <td align="center" bgcolor="#3776ab" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">🐍 Python</td>
-      <td align="center" bgcolor="#e34f26" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">🌐 HTML5</td>
-      <td align="center" bgcolor="#1572b6" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">🎨 CSS</td>
-    </tr>
-    <tr>
-      <td align="center" bgcolor="#9b59b6" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">🎹 FL Studio</td>
-      <td align="center" bgcolor="#e67e22" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">🎤 Hip Hop</td>
-      <td align="center" bgcolor="#27ae60" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">🦁 Folk Iranian</td>
-      <td align="center" bgcolor="#8e44ad" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">🎬 Cinematic Music</td>
-    </tr>
-    <tr>
-      <td align="center" bgcolor="#c0392b" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">📐 Pascal</td>
-      <td align="center" bgcolor="#2980b9" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">📝 Word</td>
-      <td colspan="2" align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">🎧 Music Producer</td>
-    </tr>
-  </table>
+  <!-- JSON (JavaScript) -->
+  <img src="https://img.shields.io/badge/JSON%20(JavaScript)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <br/>
+  
+  <!-- FL Studio -->
+  <img src="https://img.shields.io/badge/FL%20Studio-9B59B6?style=for-the-badge&logo=flstudio&logoColor=white" />
+  
+  <!-- Hip Hop -->
+  <img src="https://img.shields.io/badge/Hip%20Hop-E67E22?style=for-the-badge&logo=spotify&logoColor=white" />
+  
+  <!-- Folk Iranian -->
+  <img src="https://img.shields.io/badge/Folk%20Iranian-27AE60?style=for-the-badge&logo=google&logoColor=white" />
+  
+  <!-- Cinematic Music -->
+  <img src="https://img.shields.io/badge/Cinematic%20Music-8E44AD?style=for-the-badge&logo=applemusic&logoColor=white" />
+  
+  <br/>
+  
+  <!-- Pascal -->
+  <img src="https://img.shields.io/badge/Pascal-C0392B?style=for-the-badge&logo=delphi&logoColor=white" />
+  
+  <!-- Word -->
+  <img src="https://img.shields.io/badge/Word-2980B9?style=for-the-badge&logo=microsoftword&logoColor=white" />
+  
+  <!-- Music Producer -->
+  <img src="https://img.shields.io/badge/Music%20Producer-1A1A1A?style=for-the-badge&logo=ableton&logoColor=white" />
+  
 </div>
 
+<br/>
 <br/>
 
 <div align="center">
   <h2>📍 اطلاعات من</h2>
   
-  | | |
-  |---|---|
-  | **Name** | Zarvan |
-  | **Country** | Iran 🦁 |
-  | **Id_Splus** | @Zarvan_Brave |
+  **Name:** Zarvan<br/>
+  **Country:** Iran 🦁<br/>
+  **Id_Splus:** @Zarvan_Brave
+  
 </div>
 
 <br/>
@@ -46,6 +65,7 @@
   <h2>📫 راه ارتباط</h2>
   
   **Splus:** @Zarvan_Brave
+  
 </div>
 
 <br/>
