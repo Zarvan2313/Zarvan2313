@@ -6,72 +6,46 @@
 
 <div align="center">
   <h2>✨ استعدادهای من ✨</h2>
-  <br/>
   
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 800px; margin: auto;">
-    
-    <div style="background: linear-gradient(135deg, #f7df1e, #f7df1e); padding: 12px 20px; border-radius: 12px; color: #000; font-weight: bold; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
-      🟨 JSON (JavaScript)
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #3776ab, #3776ab); padding: 12px 20px; border-radius: 12px; color: #fff; font-weight: bold; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
-      🐍 Python
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #e34f26, #e34f26); padding: 12px 20px; border-radius: 12px; color: #fff; font-weight: bold; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
-      🌐 HTML5
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #1572b6, #1572b6); padding: 12px 20px; border-radius: 12px; color: #fff; font-weight: bold; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
-      🎨 CSS
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #9b59b6, #8e44ad); padding: 12px 20px; border-radius: 12px; color: #fff; font-weight: bold; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
-      🎹 FL Studio
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #e67e22, #d35400); padding: 12px 20px; border-radius: 12px; color: #fff; font-weight: bold; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
-      🎤 Hip Hop
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #27ae60, #2ecc71); padding: 12px 20px; border-radius: 12px; color: #fff; font-weight: bold; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
-      🦁 Folk Iranian
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #8e44ad, #9b59b6); padding: 12px 20px; border-radius: 12px; color: #fff; font-weight: bold; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
-      🎬 Cinematic Music
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #c0392b, #e74c3c); padding: 12px 20px; border-radius: 12px; color: #fff; font-weight: bold; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
-      📐 Pascal
-    </div>
-    
-    <div style="background: linear-gradient(135deg, #2980b9, #3498db); padding: 12px 20px; border-radius: 12px; color: #fff; font-weight: bold; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
-      📝 Word
-    </div>
-    
-  </div>
+  <table align="center">
+    <tr>
+      <td align="center" bgcolor="#f7df1e" style="border-radius: 10px; padding: 15px 25px; color: #000; font-weight: bold;">🟨 JSON (JavaScript)</td>
+      <td align="center" bgcolor="#3776ab" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">🐍 Python</td>
+      <td align="center" bgcolor="#e34f26" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">🌐 HTML5</td>
+      <td align="center" bgcolor="#1572b6" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">🎨 CSS</td>
+    </tr>
+    <tr>
+      <td align="center" bgcolor="#9b59b6" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">🎹 FL Studio</td>
+      <td align="center" bgcolor="#e67e22" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">🎤 Hip Hop</td>
+      <td align="center" bgcolor="#27ae60" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">🦁 Folk Iranian</td>
+      <td align="center" bgcolor="#8e44ad" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">🎬 Cinematic Music</td>
+    </tr>
+    <tr>
+      <td align="center" bgcolor="#c0392b" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">📐 Pascal</td>
+      <td align="center" bgcolor="#2980b9" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">📝 Word</td>
+      <td colspan="2" align="center" bgcolor="#1a1a1a" style="border-radius: 10px; padding: 15px 25px; color: #fff; font-weight: bold;">🎧 Music Producer</td>
+    </tr>
+  </table>
 </div>
 
-<br/>
 <br/>
 
 <div align="center">
   <h2>📍 اطلاعات من</h2>
-  <div style="background: #0D1117; padding: 15px 25px; border-radius: 15px; display: inline-block; border: 1px solid #2E9AFE;">
-    <b>Name:</b> Zarvan<br/>
-    <b>Country:</b> Iran 🦁<br/>
-    <b>Id_Splus:</b> @Zarvan_Brave
-  </div>
+  
+  | | |
+  |---|---|
+  | **Name** | Zarvan |
+  | **Country** | Iran 🦁 |
+  | **Id_Splus** | @Zarvan_Brave |
 </div>
 
 <br/>
 
 <div align="center">
   <h2>📫 راه ارتباط</h2>
-  <div style="background: #0D1117; padding: 15px 25px; border-radius: 15px; display: inline-block; border: 1px solid #2E9AFE;">
-    <b>Splus:</b> @Zarvan_Brave
-  </div>
+  
+  **Splus:** @Zarvan_Brave
 </div>
 
 <br/>
@@ -79,17 +53,7 @@
 <div align="center">
   <h2>⌛</h2>
   
-  <div style="font-size: 70px; animation: spin 2s infinite;">
-    ⌛️
-  </div>
-  
-  <style>
-    @keyframes spin {
-      0% { transform: rotate(0deg); }
-      50% { transform: rotate(180deg); }
-      100% { transform: rotate(360deg); }
-    }
-  </style>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hourglass.gif" width="80" />
   
   <br/>
   
