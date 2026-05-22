@@ -6,11 +6,26 @@
 
 <div align="center">
   <h2>✨ استعدادهای من ✨</h2>
-  <img src="https://skillicons.dev/icons?i=js,py,html,css,pascal" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=fl studio,word" />
-  <br/>
-  <b>🎤 Hip Hop &nbsp;&nbsp; 🏔️ Folk Iranian &nbsp;&nbsp; 🎬 Cinematic Music</b>
+  
+  <table align="center">
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/><br/>JSON (JS)</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br/>Python</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/><br/>HTML5</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/><br/>CSS</td>
+    </tr>
+    <tr>
+      <td align="center">🎹<br/><br/>FL Studio</td>
+      <td align="center">🎤<br/><br/>Hip Hop</td>
+      <td align="center">🏔️<br/><br/>Folk Iranian</td>
+      <td align="center">🎬<br/><br/>Cinematic Music</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pascal/pascal-original.svg" width="50"/><br/>Pascal</td>
+      <td align="center">📝<br/><br/>Word</td>
+      <td colspan="2"></td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -34,25 +49,7 @@
 <div align="center">
   <h2>⌛</h2>
   
-  <!-- ساعت شنی متحرک با SVG که در گیت‌هاب کار می‌کند -->
-  <svg width="100" height="120" xmlns="http://www.w3.org/2000/svg">
-    <rect x="20" y="10" width="60" height="100" fill="none" stroke="#2E9AFE" stroke-width="3" rx="5"/>
-    <polygon points="30,20 70,20 50,50" fill="#2E9AFE">
-      <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/>
-    </polygon>
-    <polygon points="30,100 70,100 50,70" fill="#2E9AFE">
-      <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
-    </polygon>
-    <line x1="50" y1="50" x2="50" y2="70" stroke="#2E9AFE" stroke-width="2">
-      <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/>
-    </line>
-    <circle cx="50" cy="20" r="3" fill="#2E9AFE">
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="50" cy="100" r="3" fill="#2E9AFE">
-      <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
-    </circle>
-  </svg>
+  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/main/hourglass.gif" width="100"/>
   
   <br/>
   
